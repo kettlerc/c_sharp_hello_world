@@ -1,0 +1,15 @@
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/bin/Debug/net5.0/myApp.dll
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.csproj.AssemblyReference.cache
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.dll
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/curtiskettler/Google Drive/Coding/Prime/Tier3/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
